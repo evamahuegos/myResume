@@ -1,0 +1,50 @@
+.in{
+		margin-left: 5%;
+		font-size: 150%;
+		color:#fff;
+	}
+	.inn{
+		margin-top:-10%;
+		margin-left:5%;
+		color:#fff;
+	}
+	.info{
+		margin-left:5%;
+		margin-top:10%;
+		color:#fff;
+	}
+	.a1{
+		margin-top:-6%;
+		color:#fff;
+	}
+	.a2{
+		margin-top:-10%;
+		color:#fff;
+	}
+	.a3{
+		margin-top:3%;
+		color:#fff;
+	}
+	.in2{
+		margin-left: 7%;
+		margin-right: 7%;
+	}
+	.bullet{
+		margin-left:7%;
+	}	
+	.border{
+		border:1px solid blue;
+		height:100%;
+		width:17%;
+		margin-left:15%;
+		background-color:#2E86C1;
+	}
+	.border2{
+		margin-top:-53%;
+		margin-left:28%;
+	}
+	.image{
+		height:180px;
+		width:180px;
+		margin-left:7%;
+	}
